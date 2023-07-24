@@ -1,5 +1,4 @@
-# second-flex-project 
-Demo: https://saba-aghajani-developer.github.io/second-flex-project/
+# Second Flex Project 
 ![view final](https://github.com/Saba-Aghajani-developer/second-flex-project/assets/135870519/10ad2e8c-c132-464e-944c-34db348b9465)
 
 - [Demo Project](https://saba-aghajani-developer.github.io/second-flex-project/)
