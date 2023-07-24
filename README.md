@@ -9,4 +9,5 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram]([https://www.instagram.com/hossein.deyri_web](https://instagram.com/saba_aghajani_web?igshid=ZGUzMzM3NWJiOQ==)https://instagram.com/saba_aghajani_web?igshid=ZGUzMzM3NWJiOQ==) and [linkedin](https://www.linkedin.com/in/saba-a-69b608208)
+- How to reach me : with my [instagram](https://instagram.com/saba_aghajani_web?igshid=ZGUzMzM3NWJiOQ==) and [linkedin](https://www.linkedin.com/in/saba-a-69b608208)
+
